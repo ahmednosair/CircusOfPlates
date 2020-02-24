@@ -1,0 +1,54 @@
+Dec 21, 2019 8:18:14 AM eg.edu.alexu.csd.oop.game.circusofplates.View.Main start
+INFO: Program interface started
+Dec 21, 2019 8:18:18 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.PlugIn <init>
+INFO: New plugin loader
+Dec 21, 2019 8:18:18 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.LevelFactory getInstance
+INFO: New Level factory
+Dec 21, 2019 8:18:18 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.LevelFactory getLevel
+INFO: New returned Level by factory
+Dec 21, 2019 8:18:19 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.Easy <init>
+INFO: New easy level
+Dec 21, 2019 8:18:19 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getMovableObjects
+INFO: Getting movable objects
+Dec 21, 2019 8:18:19 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getWidth
+INFO: Getting the width
+Dec 21, 2019 8:18:19 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getHeight
+INFO: Getting the height
+Dec 21, 2019 8:18:19 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.ImgPool <init>
+INFO: New image pool
+Dec 21, 2019 8:18:31 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.LevelFactory getInstance
+INFO: New Level factory
+Dec 21, 2019 8:18:31 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.LevelFactory getLevel
+INFO: New returned Level by factory
+Dec 21, 2019 8:18:31 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.Medium <init>
+INFO: New Medium level
+Dec 21, 2019 8:18:31 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getMovableObjects
+INFO: Getting movable objects
+Dec 21, 2019 8:18:31 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getWidth
+INFO: Getting the width
+Dec 21, 2019 8:18:31 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getHeight
+INFO: Getting the height
+Dec 21, 2019 8:18:34 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.LevelFactory getInstance
+INFO: New Level factory
+Dec 21, 2019 8:18:34 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.LevelFactory getLevel
+INFO: New returned Level by factory
+Dec 21, 2019 8:18:34 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.Hard <init>
+INFO: New hard level
+Dec 21, 2019 8:18:34 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getMovableObjects
+INFO: Getting movable objects
+Dec 21, 2019 8:18:34 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getWidth
+INFO: Getting the width
+Dec 21, 2019 8:18:34 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getHeight
+INFO: Getting the height
+Dec 21, 2019 8:18:35 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.LevelFactory getInstance
+INFO: New Level factory
+Dec 21, 2019 8:18:35 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.LevelFactory getLevel
+INFO: New returned Level by factory
+Dec 21, 2019 8:18:35 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.Nightmare <init>
+INFO: New nightmare level
+Dec 21, 2019 8:18:35 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getMovableObjects
+INFO: Getting movable objects
+Dec 21, 2019 8:18:35 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getWidth
+INFO: Getting the width
+Dec 21, 2019 8:18:35 AM eg.edu.alexu.csd.oop.game.circusofplates.Model.BaseWorld getHeight
+INFO: Getting the height

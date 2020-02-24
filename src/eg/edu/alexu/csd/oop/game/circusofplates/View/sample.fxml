@@ -1,0 +1,15 @@
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+<VBox fx:controller="eg.edu.alexu.csd.oop.game.circusofplates.Control.Controller" xmlns:fx="http://javafx.com/fxml" spacing="10" alignment="CENTER">
+    <Label text="Winnie and Tigger" style="-fx-font-size: 20;"/>
+    <Label text="Choose level:" style="-fx-font-size: 14;"/>
+    <Button text="Easy" style="-fx-font-size: 16;" onAction="#easy"/>
+    <Button text="Medium" style="-fx-font-size: 16;" onAction="#medium"/>
+    <Button text="Hard" style="-fx-font-size: 16;" onAction="#hard"/>
+    <Button text="Nightmare" style="-fx-font-size: 16;" onAction="#nightmare"/>
+    <Button text="Exit" style="-fx-font-size: 16;" onAction="#exit"/>
+
+
+</VBox>
